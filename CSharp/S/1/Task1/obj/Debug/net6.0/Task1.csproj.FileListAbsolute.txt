@@ -1,0 +1,15 @@
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/Task1
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/Task1.deps.json
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/Task1.dll
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/ref/Task1.dll
+/home/admin/GB/CSharp/S/1/Task1/bin/Debug/net6.0/Task1.pdb
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.dll
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/ref/Task1.dll
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.pdb
+/home/admin/GB/CSharp/S/1/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
