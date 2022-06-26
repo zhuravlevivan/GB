@@ -1,0 +1,15 @@
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/Example009_Array
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/Example009_Array.deps.json
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/Example009_Array.runtimeconfig.json
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/Example009_Array.dll
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/ref/Example009_Array.dll
+/home/admin/GB/CSharp/L/2/Example009_Array/bin/Debug/net6.0/Example009_Array.pdb
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.csproj.AssemblyReference.cache
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.AssemblyInfoInputs.cache
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.AssemblyInfo.cs
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.csproj.CoreCompileInputs.cache
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.dll
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/ref/Example009_Array.dll
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.pdb
+/home/admin/GB/CSharp/L/2/Example009_Array/obj/Debug/net6.0/Example009_Array.genruntimeconfig.cache

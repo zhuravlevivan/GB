@@ -1,0 +1,15 @@
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/Example008_FM
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/Example008_FM.deps.json
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/Example008_FM.runtimeconfig.json
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/Example008_FM.dll
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/ref/Example008_FM.dll
+/home/admin/GB/CSharp/L/2/Example008_FM/bin/Debug/net6.0/Example008_FM.pdb
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.csproj.AssemblyReference.cache
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.AssemblyInfoInputs.cache
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.AssemblyInfo.cs
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.csproj.CoreCompileInputs.cache
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.dll
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/ref/Example008_FM.dll
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.pdb
+/home/admin/GB/CSharp/L/2/Example008_FM/obj/Debug/net6.0/Example008_FM.genruntimeconfig.cache
