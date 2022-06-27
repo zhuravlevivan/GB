@@ -1,0 +1,5 @@
+/home/admin/GB/CSharp/S/2/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/home/admin/GB/CSharp/S/2/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/GB/CSharp/S/2/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/home/admin/GB/CSharp/S/2/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/home/admin/GB/CSharp/S/2/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
