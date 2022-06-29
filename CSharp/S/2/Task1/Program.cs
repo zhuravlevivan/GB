@@ -1,27 +1,42 @@
-﻿namespace GeekBrains
+﻿/*
+Напишите программу, которая будет принимать на вход два числа и выводить,
+является ли второе число кратным первому.
+Если второе число не кратно числу первому,
+то программа выводит остаток от деления.
+34, 5 -> не кратно, остаток 4
+16, 4 -> кратно
+*/
+
+namespace GeekBrains
 {
     class Program{
         public static void Main(string[] args)
         {
-            // Вызов метода и получение результатов от метода
-            int number = GetRandomNumber(10, 100);
-            Console.WriteLine("Number: " + number);
-            // Приведение number к строке
-            string str = number.ToString(str[0].ToString());
-            for (int i = 1; i < str.Length; i++)
-            {
-                if (result < Convert.ToInt32(str[i].ToString()))
-                {
-                    result = Convert.ToInt32(str[i].ToString());
-                }
-            }
-            Console.WriteLine("Result: " + result);
+        
+        Console.Write("Input first digit: ");
+        int d1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Input second digit: ");
+        int d2 = Convert.ToInt32(Console.ReadLine());
+
+        int max = d1,
+            min = d2;
+        int ost = max % min;
+        if(d2 > d1)
+        {
+            max = d2;
+            min = d1;
         }
 
-        public static int GetRandomNumber(int first, int second)
+        if(max % min == 0)
         {
-            int number = new Random().Next(first, second);
-            return number;
+            Console.WriteLine($"{max} кратно {min}");
         }
+        if(max % min > 0)
+        {
+            Console.WriteLine($"{max} Не кратно {min}, остаток - {ost}");
+        }
+        }
+
     }
 }
