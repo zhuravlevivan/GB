@@ -1,0 +1,15 @@
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/DZ_13
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/DZ_13.deps.json
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/DZ_13.runtimeconfig.json
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/DZ_13.dll
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/ref/DZ_13.dll
+/home/admin/GB/CSharp/S/2/DZ_13/bin/Debug/net6.0/DZ_13.pdb
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.csproj.AssemblyReference.cache
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.AssemblyInfoInputs.cache
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.AssemblyInfo.cs
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.csproj.CoreCompileInputs.cache
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.dll
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/ref/DZ_13.dll
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.pdb
+/home/admin/GB/CSharp/S/2/DZ_13/obj/Debug/net6.0/DZ_13.genruntimeconfig.cache
