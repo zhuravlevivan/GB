@@ -13,10 +13,6 @@ namespace GeekBrains
             Console.Write("Введите число: ");
             string? d = Console.ReadLine();
             
-            //int [] c = d; 
-                    // Создаем пустой чар-массив "с" и записываем в него число "d".
-                    // Конвертируем в строку. Затем в чар-массив
-            //Console.WriteLine(d?.Length);
             if(d?.Length < 3)
             {
                 Console.WriteLine("Третьей цифры нет");
