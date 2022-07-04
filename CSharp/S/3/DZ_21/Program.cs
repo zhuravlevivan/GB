@@ -6,7 +6,7 @@
 
 namespace GeekBrains
 {
-    class Program
+    internal class NewBaseType
     {
         public static void Main(string[] args)
         {
@@ -38,11 +38,15 @@ namespace GeekBrains
             //             +  (Math.Pow((zb - za), 2)));
 
             double distance = Math.Round(Math.Sqrt(((Math.Pow((xb - xa), 2))
-                                                +  (Math.Pow((yb - ya), 2))
-                                                +  (Math.Pow((zb - za), 2)))), 2);
+                                                + (Math.Pow((yb - ya), 2))
+                                                + (Math.Pow((zb - za), 2)))), 2);
 
             Console.WriteLine($"Расстояние между точками: {distance}");
 
         }
+    }
+
+    class Program : NewBaseType
+    {
     }
 }
