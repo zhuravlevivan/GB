@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OD3VQ6o5DqnBneLaEvYGkYBU+QDL2UG3+xJKfuWMvOxnwHRNl0SjMrP+FNgTbsbIKYK/BNxHwUXIGyUabYUfjQ==",
+  "success": true,
+  "projectFilePath": "/home/admin/GB/CSharp/S/3/DZ_23/DZ_23.csproj",
+  "expectedPackageFiles": [
+    "/home/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

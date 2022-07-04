@@ -8,7 +8,11 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "/home/admin/.nuget/packages/": {}
+=======
     "C:\\Users\\ZhuravlevIV\\.nuget\\packages\\": {}
+>>>>>>> 867cfbf118f7aa7d8a4306e08d6dc7d8ad6b63eb
   },
   "project": {
     "version": "1.0.0",
@@ -53,12 +57,25 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.2, 6.0.2]"
+          }
+        ],
+=======
+>>>>>>> 867cfbf118f7aa7d8a4306e08d6dc7d8ad6b63eb
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 867cfbf118f7aa7d8a4306e08d6dc7d8ad6b63eb
       }
     }
   }
