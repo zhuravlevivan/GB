@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZpxY98r0v6VVarr4FMrL4jMCKP7SdpRWq6cgwGC8rKNJFxRDCiegwKhD0fuZrWWibrsPa5bv9jy8Yuuwlljpw==",
+  "dgSpecHash": "ekItmKzDs9THWQUzgSf5sG9FQBkQm0X5K40vTJTvRBsyxVdwDyg0Q1Va5HOeNrk2AjnUsESgUGbZt9LVpyI6jA==",
   "success": true,
-  "projectFilePath": "/home/admin/GB/CSharp/S/3/DZ_19/DZ_19.csproj",
-  "expectedPackageFiles": [
-    "/home/admin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ZhuravlevIV\\OneDrive\\GB\\CSharp\\S\\3\\DZ_19\\DZ_19.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
