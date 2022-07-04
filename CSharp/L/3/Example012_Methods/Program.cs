@@ -107,7 +107,7 @@
 // newText = Replace(newText, 'с', 'С');
 // Console.WriteLine(newText);
 
-int[] arr = { 9, 6, 8, 3, 2, 1, 5, 4, 7, 1, 4, 2 };
+int[] arr = { 9, 67, 8, 3, 32, 1, 5, 4, 7, 4, 2, 8, 0, 53, 2 };
 
 void PrintArray(int[] array)
 {
@@ -125,7 +125,7 @@ void SelectionSort(int[] array)
     
     for (int i = 0; i < array.Length - 1; i++)
     {
-        int minPosition = 0;
+        int minPosition = i;
 
         for (int j = i + 1; j < array.Length; j++)
         {
@@ -143,4 +143,5 @@ void SelectionSort(int[] array)
 
 PrintArray(arr);
 SelectionSort(arr);
+
 PrintArray(arr);
