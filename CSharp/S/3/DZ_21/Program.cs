@@ -45,8 +45,4 @@ namespace GeekBrains
 
         }
     }
-
-    class Program : NewBaseType
-    {
-    }
 }
