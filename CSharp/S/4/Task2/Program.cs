@@ -5,10 +5,17 @@ namespace Seminar_4
 {
     class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            
-            
+        
+        int[] eigth_array = new int[8];
+                
+        for(int i = 0; i < eigth_array.Length; i++)
+        {
+            eigth_array[i] = new Random().Next(0, 2);
+            Console.Write($"{eigth_array[i]} ");
+        }
+
         }
 
     }
