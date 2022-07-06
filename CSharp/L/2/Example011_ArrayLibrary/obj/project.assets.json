@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/admin/.nuget/packages/": {}
+    "C:\\Users\\ZhuravlevIV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/admin/GB/CSharp/L/2/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ZhuravlevIV\\OneDrive\\GB\\CSharp\\L\\2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
       "projectName": "Example011_ArrayLibrary",
-      "projectPath": "/home/admin/GB/CSharp/L/2/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
-      "packagesPath": "/home/admin/.nuget/packages/",
-      "outputPath": "/home/admin/GB/CSharp/L/2/Example011_ArrayLibrary/obj/",
+      "projectPath": "C:\\Users\\ZhuravlevIV\\OneDrive\\GB\\CSharp\\L\\2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+      "packagesPath": "C:\\Users\\ZhuravlevIV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZhuravlevIV\\OneDrive\\GB\\CSharp\\L\\2\\Example011_ArrayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/admin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ZhuravlevIV\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.2, 6.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
