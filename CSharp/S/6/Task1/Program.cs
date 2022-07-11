@@ -17,10 +17,11 @@ namespace S6Task1
             {
                 rra[i] = arr[^(i+1)];
             }
-            Print(arr);
-            Console.WriteLine();
-            Print(rra);
-            Console.WriteLine();
+            
+            for (int ctr = 0; ctr < arr.Length; ctr++)
+            {
+            	Console.WriteLine("{0,-7} {1}", arr[ctr], rra[ctr]);
+            }
         }
 
         public static void Fill(int[] nums)   
