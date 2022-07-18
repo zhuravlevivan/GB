@@ -31,12 +31,8 @@ namespace S7Task1
 
 
 
-
-
-
-
-
-
         }
+
+
     }
 }
