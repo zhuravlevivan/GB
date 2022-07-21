@@ -50,9 +50,7 @@ namespace DZ50
                 {
                     mean = mean + someArray[j, i];
                 }
-                // Console.WriteLine($"Summ {mean} ");
                 arrMean[i] = mean / someArray.GetLength(1);
-                // Console.WriteLine($"Mean {Math.Round(mean, 3)} ");
             }
             Print(arrMean);
         }
