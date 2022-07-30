@@ -399,4 +399,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# DrawIO tempfiles
+*.dtmp
+*.bkp
+
 # End of https://www.toptal.com/developers/gitignore/api/csharp
