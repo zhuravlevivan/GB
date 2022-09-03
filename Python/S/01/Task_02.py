@@ -7,6 +7,6 @@
 max = -1
 for i in range(5):
     n = int(input())
-if max < n:
-    max = n
-    print(max)
+    if max < n:
+        max = n
+print(max)
