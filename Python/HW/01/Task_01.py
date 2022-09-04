@@ -8,8 +8,8 @@
 # - 7 -> да
 # - 1 -> нет
 
-day = int(input('Input # day of week: '))
+day = int(input('Введите цифру обозначающую день недели: '))
 if 5 < day < 8:
-    print('yes')
+    print('Выходной')
 else:
-    print('no')
+    print('Не выходной')
