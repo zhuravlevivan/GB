@@ -8,14 +8,18 @@
 
 from math import ceil
 
-s = [2, 3, 4, 5, 6, 7, 8]
 
-d = ceil(len(s) / 2)
+list_1 = []
+list_2 = []
 
-s2 = s[::-1]
-s3 = s[:d]
-print(s2)
-print(s3)
+for i in range(int(input('Введите количество чисел: '))):
+    list_1.append(int(input(f'Введите число № {i + 1}: ')))
+
+for i in range(ceil(len(list_1) / 2)):
+    list_2.append(list_1[i] * list_1[len(list_1) - i - 1])
+    print(f'Пара № {i + 1}: {list_1[i]} и {list_1[len(list_1) - i - 1]}')
+print(f'Произведение пар списка: {list_2}')
+
 # x = 0
 # for i in range(d):
 
