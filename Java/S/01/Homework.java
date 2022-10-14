@@ -1,5 +1,3 @@
-package src.main.java.ru.gb.jseminar;
-
 public class Homework {
 
     //На вход некоторому исполнителю подаётся два числа (a, b). У исполнителя есть две команды

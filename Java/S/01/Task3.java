@@ -1,7 +1,3 @@
-package src.main.java.ru.gb.jseminar;
-
-import java.util.Collections;
-
 public class Task3 {
 
     //Дан массив двоичных чисел, например [1,1,0,1,1,1], вывести максимальное количество подряд идущих 1.

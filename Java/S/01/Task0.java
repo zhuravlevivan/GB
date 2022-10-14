@@ -1,5 +1,3 @@
-package src.main.java.ru.gb.jseminar;
-
 public class Task0 {
 
 

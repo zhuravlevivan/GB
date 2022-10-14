@@ -1,6 +1,4 @@
-package src.main.java.ru.gb.jseminar;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public class Task2 {
@@ -23,7 +21,7 @@ public class Task2 {
         else if (now > 18 & now < 23){
             System.out.printf("Добрый вечер, %s!\n", name);
         }
-        else if (now > 23 & now < 5){
+        else if (now >= 23 & now < 5){
             System.out.printf("Доброй ночи, %s!\n", name);
         }
         
