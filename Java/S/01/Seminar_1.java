@@ -3,6 +3,13 @@ import java.util.Arrays;
 public class Seminar_1 {
     public static void main(String[] args) {
         int[] a = { 1, 9, 9, 0, 2, 8, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 };
+        result(a);
+    }
+    public static int[] uniqueSortedArray (int [] a) {
+        return Arrays.stream(a).distinct().sorted().toArray();
+    }
+
+    public static void result (int[] a) {
         int[] b = uniqueSortedArray(a);
 
         for (int i = 0; i < b.length; i++) {
@@ -18,7 +25,5 @@ public class Seminar_1 {
             else {System.out.printf("%d встречается %d раз\n", b[i], count);}
         }
     }
-    public static int[] uniqueSortedArray (int [] a) {
-        return Arrays.stream(a).distinct().sorted().toArray();
-    }
 }
+
