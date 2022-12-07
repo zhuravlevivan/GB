@@ -13,7 +13,8 @@ public class Task4 {
         int x = sc.nextInt();
         System.out.print("Введите второе число: ");
         int y = sc.nextInt();
-        System.out.printf("Результат: " + Math.pow(x, y) + "\n");
+        int rez = ((x+1)/(y-1)) + ((y+1)/(x-1));
+        System.out.printf("Результат: " + rez + "\n");
         sc.close();
     }
 
