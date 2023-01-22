@@ -1,24 +1,22 @@
 package org.example;
-public class Father extends Human{
-    Father(String fi, String dateOfBirth, String city, String country) {
+
+public class Mother extends Human{
+    Mother(String fi, String dateOfBirth, String city, String country){
         this.setFi(fi);
         this.setDateOfBirth(dateOfBirth);
         this.setCity(city);
         this.setCountry(country);
     }
-    Father() {
-        super();
-    }
+
+    Mother(){}
 
     @Override
     public void getInfo() {
-        System.out.printf("Name %s%ndate of birth %s%ncity %s%ncountry %s%nid %d%n",
+        System.out.printf(" Name %s%n date of birth %s%n city %s%n country %s%nid %d%n",
                 this.getFi(),
                 this.getDateOfBirth(),
                 this.getCity(),
                 this.getCountry(),
-                getId()
-        );
+                getId());
     }
-
 }

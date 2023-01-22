@@ -1,10 +1,20 @@
 package org.example;
 
 public abstract class Human {
-    private String fi;
-    private String dateOfBirth;
-    private String city;
-    private String country;
+    private static int count = 0;
+    private String fi = "";
+    private String dateOfBirth = "";
+    private String city = "";
+    private String country = "";
+    private Integer id;
+    {
+        id = count;
+        count++;
+    }
+
+    public Integer getId() {
+        return id;
+    }
 
     public String getFi() {
         return fi;
@@ -39,4 +49,6 @@ public abstract class Human {
     }
 
     public abstract void getInfo();
+
+
 }
