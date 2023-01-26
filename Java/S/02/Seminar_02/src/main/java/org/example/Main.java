@@ -22,7 +22,7 @@ public class Main {
 
 //        father.getInfo();
 //        father2.getInfo();
-        father3.getInfo();
+//        father3.getInfo();
 //        child.getInfo();
 //        child2.getInfo();
 //        child3.getInfo();

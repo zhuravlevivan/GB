@@ -9,7 +9,6 @@ public class Father extends Human{
     Father() {
         super();
     }
-
     @Override
     public void getInfo() {
         System.out.printf("Name %s%ndate of birth %s%ncity %s%ncountry %s%nid %d%n",
@@ -20,5 +19,4 @@ public class Father extends Human{
                 getId()
         );
     }
-
 }

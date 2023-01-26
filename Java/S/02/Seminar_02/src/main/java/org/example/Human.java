@@ -50,5 +50,4 @@ public abstract class Human {
 
     public abstract void getInfo();
 
-
 }

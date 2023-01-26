@@ -6,7 +6,6 @@ public class Child extends Human{
         this.setDateOfBirth(dateOfBirth);
         this.setCity(city);
         this.setCountry(country);
-
     }
 
     Child(){
@@ -21,7 +20,5 @@ public class Child extends Human{
                 this.getCity(),
                 this.getCountry(),
                 getId());
-
     }
-
 }
